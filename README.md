@@ -1,1 +1,1 @@
-# nm_handwritten-digit-recognition-using-deep-learning
+# nm_Handwritten-Digit-AI
